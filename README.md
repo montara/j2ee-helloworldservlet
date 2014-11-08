@@ -14,6 +14,6 @@ Use
 
 Assumption: your web app server is listening on port 8080.
 
-To check the web app was correctly deployed, go to [http://localhost:8080/helloworldservlet/index.jsp]().
+To check the web app was correctly deployed, go to http://localhost:8080/helloworldservlet/index.jsp
 
-To see the cookies and headers received by the web app, go to [http://localhost:8080/helloworldservlet/RequestDump/]().
+To see the cookies and headers received by the web app, go to http://localhost:8080/helloworldservlet/RequestDump/
